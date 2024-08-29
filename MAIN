@@ -1,0 +1,53 @@
+1.Java
+   =>Platform independent(bcoz byte codes Can run on any system regardless of its operation system)
+   =>High level language(Easy for humans understanding)
+2.Features of Java
+=>OOP CONCEPT
+=>Platform independent
+=>High performance
+=>Multi THreaded
+3.which version of java is currently used
+Java 22 is the latest version of Java.
+Features
+->Foreign Function & Memory API
+->Vector API
+4.OOP concept[Objects Oriented Programming System or Structure ]
+=>Inheritance
+=>Encapsulation
+=>Polymorphism
+=>Abstraction
+=>Interface
+5.Data Encapsulation
+*It is a concept in OOPS
+*Used for combining properties and methods in a single unit.
+*It serves Data hiding purpose
+6.Polymorphism
+the ability of something to have or to be displayed in more than one form
+7.Types 
+=>Compile time polymorphism(It is a Method Overloading)
+=>Run time Polymorphism(Uses inheritance and Interface)
+8.Interface:(Each method is public and abstract,but it does not contain any container)
+=>An interface in Java is a blueprint of a class.
+=>It has static constants and abstract methods.
+=>The interface in Java is a mechanism to achieve abstraction. 
+=>There can be only abstract methods in the Java interface, not method body.
+=>It is used to achieve abstraction and multiple inheritance in Java.
+9.Constructor:
+It is a block of code used to initialize an object.
+It has same name as that of the class
+It has no return type
+Creating an object will call a constructor automatically. 
+10.Types:
+=>Default Constructor
+   Does not take any inputs
+   Main purpose is to initialise the instance variables with default values
+   Widely used for Object Creation
+Instance Variable==>non-static variables which are defined in a class outside any method, constructor or a block.
+=>Parameterized Constructor
+   Capable of initializing the instance variables with the provided values
+   These Constructors take the arguments
+11.JDK:(Java Development Kit)
+Can compile,document and package and java programs
+Contains both JRE and development tools.
+   
+
