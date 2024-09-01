@@ -49,5 +49,7 @@ Instance Variable==>non-static variables which are defined in a class outside an
 11.JDK:(Java Development Kit)
 Can compile,document and package and java programs
 Contains both JRE and development tools.
-   
+12.JVM:(Java Virtual Machine)
+An abstract machine that provides a run-time environment that allows programmers to execute java bytecode.
+It follows specifiaction,implementation,and runtime instance notations.
 
